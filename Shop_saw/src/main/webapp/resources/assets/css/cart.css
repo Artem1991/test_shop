@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+.image-cart {
+	width: 150px;
+	height: 150px;
+}
+.cart-thing {
+	width: 30px;
+	height: 30px;
+}
+
+tr {
+	border-bottom-color: solid #59b210 0.5px;
+}
+
+.button {
+	background-image: url(C:\Susanin\Programming\EfTech2\Shop\src\main\webapp\resources\assets\img_assets\plus-icon.png);
+}
+.button-cart{
+	width: 250px;
+	color: white;
+	background-color: #59b210;
+	height: 40px;
+	border-radius: 10px;
+	border: none;
+	font-size: 20px;
+	color: white;
+}

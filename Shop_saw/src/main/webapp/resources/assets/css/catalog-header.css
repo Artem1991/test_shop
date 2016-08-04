@@ -1,0 +1,151 @@
+
+body
+	{
+		margin: 0;
+	}
+#mainBody
+	{
+		border-bottom : solid #f3f3f3 0.5px;
+		width : 100%;
+		height: 150px;
+		color : #f3f3f3;
+		padding: 10px 0 9px;
+	}
+#mainBody a
+	{
+    	color: #000000;
+    	font-size: 15px;
+    	line-height: 15px;
+	}
+#loginBody
+	{
+		background-color : #f3f3f3;
+		height: 20px;
+	}
+	
+a
+	{
+		text-decoration: none;
+	}
+	
+.leftHeader
+	{
+		float: left;
+		margin-left: 20px;
+		padding-right: 20px;
+		border-right: 1px solid #000000;
+	}
+	
+.rightHeader
+	{
+		float: right;
+		margin-left: 20px;
+		padding-right: 20px;
+	}
+		
+#header-label
+{
+	height:100%;
+	float: left;
+	margin-left: 5%;
+}
+	
+
+#cart-icon
+	{
+		position: relative;
+		right: 200px;
+		float: right;
+		width: 50px;
+		height: 50px;
+	}
+	
+.symbol
+	{
+		position: relative;
+		top: 10px;
+		right: 162px;
+		float: right;
+		border-radius: 100px;
+    	width: 21px;
+    	height: 21px;
+    	color:white;
+    	background-color: #59b210;
+    	line-height: 21px;
+    	font-size: 12px;
+    	font-weight: bold;
+    	text-align: center;
+	}
+#label-your-cart
+	{
+		position: relative;
+		right: 40px;
+		float: right;
+		font-size: 20px;
+	}
+#totalPrice
+	{
+		position: relative;
+		right: -25px;
+		top: 25px;
+		font-size: 25px;
+		color: #59b210;
+		float: right;
+		font-size: 20px;
+	}
+#search-for-models
+	{
+		margin-top: 20px;
+		margin-left: 5%;
+		float: left;
+		width: 40%;
+		height: 40px;
+		border-radius: 10px;
+		border-color: #f3f3f3;
+	}
+.div-header
+	{
+		display: inline;
+	}
+.div-header-left
+	{
+		display: inline;
+		float: left;
+	}
+.div-header-search
+	{
+		display: inline;
+		width: 30%;
+	}
+#header-contacts
+	{
+		margin-top: 60px;
+		
+	}
+#contact-mail
+	{
+	    color : #59b210; 
+    	font-size: 20px;
+    	font-weight: bold;
+    	margin-left: 35%;
+	}
+.utils-background
+	{
+		background-color: #efefef;
+		height: 150px;
+	}
+.head-name
+	{
+		font-size: 80px;
+		color: #59b210;
+	}
+.middle-size-label
+	{
+		position: relative;
+		font-size: 20px;
+		color: #c0c0c0;
+	}
+#ending
+	{
+		margin-top: 600px;
+	}
